@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          
          */
         
-        // Do not alter
-        return true  //
-    }   //////////////
-}       /////////////
+        
+        return true
+    }
+}
